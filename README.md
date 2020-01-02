@@ -6,7 +6,7 @@ Demo: [https://www.emrerothzerg.com/demos/simple-php-comment-script/](https://ww
 ## Steps 
 
 1) Create your MySQL database
-2) Update /libs/all.php file and add your MySQL database details
+2) Update all.php file and add your MySQL database details
 3) Import database.sql
 
 
