@@ -1,6 +1,8 @@
 # Simple ajax PHP commenting script
 MySQL, PHP, JavaScript (jQuery), Bootstrap, Font-Awesome - Simple PHP commenting script :shipit:
 
+More info: [https://www.emrerothzerg.com/blog/simple-php-comment-script](https://www.emrerothzerg.com/blog/simple-php-comment-script)
+
 Demo: [https://www.emrerothzerg.com/demos/simple-php-comment-script/](https://www.emrerothzerg.com/demos/simple-php-comment-script/)
 
 ## Steps 
