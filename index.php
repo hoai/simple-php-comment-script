@@ -133,9 +133,9 @@ $postid = 1;
             $.post('./ajax.php',data, function(result){
                 if(result.status === true){
                     // empty the fields
-                    $('#name').val();
-                    $('#email').val();
-                    $('#comment').val();
+                    $('#name').val('');
+                    $('#email').val('');
+                    $('#comment').val('');
 
                     // display the comment without refreshing the page
                     $('#comment-list').prepend('<div class="col-md-12 col-md-offset-0"> <p class="comment-sender"> <span><b>'+result.name+'</b></span> - <span class="text-muted">'+result.time+'</span> </p> <div class="comment"> <p>'+result.comment+'</p> </div> <hr> </div>');
