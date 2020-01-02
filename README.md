@@ -3,7 +3,7 @@ MySQL, PHP, JavaScript (jQuery), Font-Awesome - Simple PHP commenting script :sh
 
 Demo: [https://www.emrerothzerg.com/demos/simple-php-comment-script/](https://www.emrerothzerg.com/demos/simple-php-comment-script/)
 
-## Steps
+## Steps 
 
 1) Create your MySQL database
 2) Update /libs/all.php file and add your MySQL database details
